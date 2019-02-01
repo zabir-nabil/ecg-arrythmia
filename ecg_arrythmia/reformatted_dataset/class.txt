@@ -1,0 +1,20 @@
+Normal
+1. NSR -> Normal Sinum Rhythm
+2. PR -> Pacemaker Rhythm
+
+Arythmia
+1. APB -> Atrial Premature Beats
+2. AFL -> Atrial Flutter
+3. AFib -> Atrial Fibrillation 
+4. SVTA -> Supraventricular Tachyarrhythmia
+5. WPW -> Wolff-Parkinson-White
+6. PVC -> Premature Ventricular Contractions
+7. Bigeminy
+8. Trigeminy
+9. VT -> Ventricular Tachycardia
+10. IVR -> Idioventricular Rhythm
+11. VFL -> Ventricular Flutter
+12. Fusion
+13. LBBB -> Left bundle branch block
+14. RBBB -> Right bundle branch block
+15. SDHB Mutation
